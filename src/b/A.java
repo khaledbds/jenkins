@@ -5,7 +5,7 @@ public class A {
 	public static void main(String[] args) {
 		test1();
 		test2();
-		
+		test3();
 
 	}
 public static void test1() {
