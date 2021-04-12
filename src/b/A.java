@@ -6,7 +6,7 @@ public class A {
 		test1();
 		test2();
 		test3();
-
+		test4();
 	}
 public static void test1() {
 	System.out.println("print abc1");
@@ -16,6 +16,9 @@ public static void test2() {
 }
 public static void test3() {
 	System.out.println("print abc3");
+}
+public static void test4() {
+	System.out.println("this is for print testing");
 }
 	
 }
